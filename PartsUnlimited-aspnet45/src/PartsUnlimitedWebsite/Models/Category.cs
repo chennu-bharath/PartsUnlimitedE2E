@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-// first edit
+// first edit on git
 namespace PartsUnlimited.Models
 {
     public class Category
@@ -17,3 +17,5 @@ namespace PartsUnlimited.Models
         public List<Product> Products { get; set; }
     }
 }
+
+
