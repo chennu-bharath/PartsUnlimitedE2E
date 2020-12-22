@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-// first edit on git
+// first edit on github
 namespace PartsUnlimited.Models
 {
     public class Category
